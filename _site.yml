@@ -1,7 +1,7 @@
 name: "briceberland_website"
 title: "Brice Berland"
 theme: BB_website.css
-favicon: images/favicon.ico
+#favicon: images/favicon.ico
 description: |
   Brice Berland
 output_dir: "docs"
