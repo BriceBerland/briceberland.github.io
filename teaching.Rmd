@@ -2,29 +2,16 @@
 title: "Teaching"
 ---
 
-## ENSAE Paris -- engineering program
+## Ecole Polytechnique 
 
-### [Microeconomics 1](https://www.ensae.fr/en/courses/5842-microeconomie-1)
+### [Applied Econometrics](https://synapses.polytechnique.fr/catalogue/2025-2026/ue/7643/ECO-51052-EP-econometrie-appliquee-1)
 
-Graduate tutorials for prof. Philippe Choné
+Graduate tutorials for prof. Arne Uhlendorff, in English 
 
-Fall 2025
+Fall 2024, 2025
 
-### [Introduction to Environmental Economics](https://www.ensae.fr/en/courses/5220)
+### [Introduction to Economics](https://synapses.polytechnique.fr/catalogue/2024-2025/ue/133/ECO-3X061-EP-introduction-aux-sciences-economiques?from=D1)
 
-Graduate tutorials for prof. Florian Grosset-Touba
+Undergraduate tutorials for prof. Olivier Gossner and Jean-Baptiste Michau, in French
 
-Spring 2025
-
-### [Introduction to Microeconomics](https://www.ensae.fr/en/courses/1)
-
-Undergraduate tutorials for prof. Laurent Linnemer
-
-Spring 2024, 2025
-
-
-### [Univariate descriptive statistics](https://www.ensae.fr/en/courses/116)
-
-Undergraduate tutorials for prof. Thierry Kamionka
-
-Fall 2023, 2024
+Spring 2025, 2026

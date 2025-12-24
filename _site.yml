@@ -1,11 +1,11 @@
-name: "jeanneastier_website"
-title: "Jeanne Astier"
-theme: JA_website.css
+name: "briceberland_website"
+title: "Brice Berland"
+theme: BB_website.css
 favicon: images/favicon.ico
 description: |
-  Jeanne Astier
+  Brice Berland
 output_dir: "docs"
-base_url: https://jeanneastier.github.io/
+base_url: https://briceberland.github.io/
 navbar:
   # logo: "one_up.png"
   right:
@@ -16,7 +16,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: "cv/CV_JAstier.pdf"
-  # source_url: https://github.com/jeanneastier/jeanneastier_website
+      href: "cv/CV_Brice_Berland.pdf"
+  # source_url: https://briceberland.github.io/
   search: false
 output: distill::distill_article

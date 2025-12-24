@@ -1,35 +1,18 @@
 ---
-title: "Jeanne Astier"
-image: "images/photo_site_round.jpg"
+title: "Brice Berland"
+image: "images/BERLAND_Brice_github.jpg"
 favicon: images/favicon.ico
 angle: 130
 site: distill::distill_website
 links:
-  - label: '`r fontawesome::fa("envelope")`  jeanne.astier@ensae.fr'
-    url: "mailto:jeanne.astier@ensae.fr"
-  - label: '`r fontawesome::fa("house")`  office 4100, ENSAE Paris'
+  - label: '`r fontawesome::fa("envelope")`  brice.berland@ensae.fr'
+    url: "mailto:brice.berland@ensae.fr"
+  - label: '`r fontawesome::fa("house")`  office 4095, ENSAE Paris'
     url: "https://www.openstreetmap.org/?mlat=48.71104&mlon=2.20752#map=17/48.711040/2.207520"
 output: postcards::trestles
 ---
 
-I am a PhD student in <span class="dark-green-text">Economics</span> at [<span class="dark-green-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Geoffrey Barrows](https://sites.google.com/site/geoffreybarrows/) and [Florian Grosset-Touba](https://www.fgrosset.com/). 
+I am a 2nd year PhD student in <span class="dark-blue-text">Economics</span> at [<span class="dark-blue-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Emmanuelle Taugourdeau](https://sites.google.com/site/pagepersoemmanuelle/) and [Pierre Boyer](https://pierrecboyer.com/). 
 
-My research lies at the intersection of <span class="light-green-text">international trade</span> and <span class="light-green-text">environmental economics</span>, with a focus on the propagation of local climate shocks. I am particularly interested in <span class="light-green-text">maritime transportation</span>.
-
-From January to June 2026, I will be visiting Berkeley Agricultural & Resource Economics department, hosted by [Thibault Fally](https://fally.are.berkeley.edu/index.html).
-
-
-<br>
-
-Incoming presentations: 
-
-<ul>
-  <li>[Crest-Insee workshop](https://crest.science/event/4th-crest-insee-workshop/), November 18</li>
-  <li>[CEPR Paris Symposium](https://cepr.org/events/event-series/cepr-paris-symposium/cepr-paris-symposium-2025) (poster), December 6</li>
-</ul>  
-
-
-<br>
-
-<span class="grey-text"> *Credits to [Maxime Chabriel](https://maximechabriel.github.io/) for the website.* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.google.com/view/johanne-trotin/home">←</a> &#127804; 4100 webring &#127804; <a href="https://archatelain.github.io/">→</a>  </span> 
+My research lies at the intersection of <span class="light-blue-text">local public finance</span>, <span class="light-blue-text">political economy</span>, <span class="light-blue-text">environmental economics</span>, and <span class="light-blue-text">spatial economics</span>. I am particularly interested in how structural transitions — whether climatic, industrial, or demographic — exert local effects and drive long-term territorial divergence.
 
