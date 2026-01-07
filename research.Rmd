@@ -32,10 +32,14 @@ function hide_buttons(abstract) {
 <span class="dark-blue-text"> Left Behind: The Local Effects of
 Deindustrialization in France</span>, with [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), [Clémence Tricaud](https://www.clemence.tricaud.com/)
 
-<button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">Abstract</button>
-<div id="abstract_trade_temperature" style="display:none;">
-<span class="abstract-text">This paper studies the long-run local consequences of deindustrialization in France. Using harmonized municipal census data from 1968–2016, we show that municipalities experiencing larger declines in manufacturing employment faced persistently higher unemployment, lower incomes, slower population growth, and greater social isolation. Deindustrialization also reduced civic participation and shifted political preferences away from pro-integration parties and toward the far right. We trace these patterns to selective migration, aging populations, and the erosion of local amenities and civic organizations. Taken together, our results document how the retreat of manufacturing reshaped the economic, social, and political fabric of French communities.</span>
-</div> 
+<div style="display: flex; flex-direction: row; align-items: baseline; gap: 15px;">
+<button class="button_link" role="button" onclick="hide_buttons('abstract_trade_temperature')">[Abstract]</button><a href="https://briceberland.github.io/pdf/012026_BerlandTabelliniTricaud.pdf" target="_blank" class="button_link" style="text-decoration: underline; color: inherit; cursor: pointer;">[Preliminary Version]</a>
+</div>
+
+<div id="abstract_trade_temperature" style="display:none; margin-top: 10px;">
+<span class="abstract-text">This paper studies the long-run local consequences of deindustrialization in France. Using harmonized municipal census data from 1968 to 2016, we show that municipalities experiencing larger declines in manufacturing employment faced persistently higher unemployment, lower incomes, slower population growth, and greater social isolation. Deindustrialization also reduced civic participation, lowering voter turnout and support for European integration while increasing the vote share of the far-right. We further show that these areas differ markedly in contemporary community life: municipalities more exposed to manufacturing decline today host fewer local amenities—such as shops, health facilities, and
+cultural venues—and generate fewer grassroots civic organizations. Together, the results document how the retreat of manufacturing reshaped not only local economies but also the social and civic fabric of French communities.</span>
+</div>
 
 <br />
 
