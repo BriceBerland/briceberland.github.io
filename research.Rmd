@@ -43,7 +43,7 @@ cultural venues—and generate fewer grassroots civic organizations. Together, t
 
 <br />
 
-<span class="dark-blue-text"> Age-Specific Response to Climate Change </span>, with [Matéo Moglia](https://mateomoglia.github.io/)
+<span class="dark-blue-text"> Age-Specific Preference for Climate Amenities </span>, with [Matéo Moglia](https://mateomoglia.github.io/)
 
 
 <br />
@@ -51,4 +51,6 @@ cultural venues—and generate fewer grassroots civic organizations. Together, t
 
 ## Academic presentations
 
-[<span class="dark-blue-text">2025</span>] CREST 1st Year PhD workshop
+[<span class="dark-blue-text">2026</span>] AFEPOP (Strasbourg), AFSE (Nantes)
+
+[<span class="dark-blue-text">2025</span>] PhD workshop, CREST
