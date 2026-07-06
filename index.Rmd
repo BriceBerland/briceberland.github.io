@@ -12,7 +12,7 @@ links:
 output: postcards::trestles
 ---
 
-I am a 3nd year PhD student in <span class="dark-blue-text">Economics</span> at [<span class="dark-blue-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Emmanuelle Taugourdeau](https://sites.google.com/site/pagepersoemmanuelle/) and [Pierre Boyer](https://pierrecboyer.com/). 
+I am a 3rd year PhD student in <span class="dark-blue-text">Economics</span> at [<span class="dark-blue-text">CREST</span>](https://crest.science/) ([Institut Polytechnique de Paris](https://www.ip-paris.fr/en)), advised by [Emmanuelle Taugourdeau](https://sites.google.com/site/pagepersoemmanuelle/) and [Pierre Boyer](https://pierrecboyer.com/). 
 
 My research lies at the intersection of <span class="light-blue-text">local public finance</span>, <span class="light-blue-text">political economy</span>, <span class="light-blue-text">environmental economics</span>, and <span class="light-blue-text">spatial economics</span>. I am particularly interested in how structural transitions — whether environmental, industrial, or demographic — exert local effects and drive long-term territorial divergence.
 
